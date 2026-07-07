@@ -1,0 +1,7 @@
+# No subir datos originales descargados
+data/raw/*
+!data/raw/.gitkeep
+
+# Archivos temporales del ordenador
+.DS_Store
+Thumbs.db
