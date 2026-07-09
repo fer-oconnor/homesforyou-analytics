@@ -2,6 +2,10 @@
 data/raw/*
 !data/raw/.gitkeep
 
+# No subir datos procesados generados localmente
+data/processed/*
+!data/processed/.gitkeep
+
 # Archivos temporales del ordenador
 .DS_Store
 Thumbs.db
